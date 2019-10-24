@@ -1,2 +1,2 @@
 # Hedonic-Games
-My collection of Research Papers on Hedonic Games
+This folder contains the reasearch papers published on hedonic games in the conferences AAMAS, IJCAI, AAAI in the years 2015, 2016, 2017, 2018 and 2019 and summarised document on all those papers.
